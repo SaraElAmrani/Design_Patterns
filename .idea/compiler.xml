@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="StrategyPattern" />
+        <module name="Pattern_Observer" />
+        <module name="Strategy_Pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

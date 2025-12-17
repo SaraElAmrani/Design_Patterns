@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/Strategy Pattern/pom.xml" />
         <option value="$PROJECT_DIR$/strategyPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Pattern_Observer/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

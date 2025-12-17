@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ma.elamrani</groupId>
-    <artifactId>StrategyPattern</artifactId>
+    <artifactId>Strategy_Pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
