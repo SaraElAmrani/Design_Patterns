@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Pattern_Decorator" />
         <module name="Pattern_Observer" />
+        <module name="Pattern_Adapter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
