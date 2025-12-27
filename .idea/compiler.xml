@@ -9,6 +9,7 @@
         <module name="Pattern_Decorator" />
         <module name="Pattern_Proxy" />
         <module name="Pattern_Adapter" />
+        <module name="Pattern_Template_Method" />
         <module name="Pattern_Observer" />
       </profile>
     </annotationProcessing>
