@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Pattern_Decorator" />
-        <module name="Pattern_Observer" />
+        <module name="Pattern_Proxy" />
         <module name="Pattern_Adapter" />
+        <module name="Pattern_Observer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

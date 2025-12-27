@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Pattern_Observer/pom.xml" />
         <option value="$PROJECT_DIR$/Pattern_Decorator/pom.xml" />
         <option value="$PROJECT_DIR$/Pattern_Adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/Pattern_Proxy/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
